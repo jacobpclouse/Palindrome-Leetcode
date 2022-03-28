@@ -3,6 +3,7 @@
 // need to compair corrosponding characters from array (ie: first char with last, second char with second last, etc)
 // incriment and decriment until we eval all chars, use '<' as it will work with odd length strings and even length strings
 
+// DOES NOT PASS ALL OF THE TEST CASES IE: [-1, 2, 2, 1]
 
 function isPalen(inputArray) {
 	// storing length of array
